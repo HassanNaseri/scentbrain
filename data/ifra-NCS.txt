@@ -1,0 +1,142 @@
+Overview
+Within the IFRA Volume of Use Survey, reporting on natural ingredients — specifically Natural Complex Substances (NCSs) — presents particular challenges. This is largely due to the fact that many NCSs exist in multiple qualities, each with significantly different compositions. Such variations arise from differences in geographical origin, extraction methods, and the plant parts used.
+
+Unlike chemically defined ingredients, for which the CAS number typically provides a sufficiently precise identifier of the molecular structure, the CAS numbers assigned to NCSs are often too broad. They do not reflect the full complexity of these substances and may cover a wide range of extracts and processing methods under a single definition.
+
+To address this limitation, IFRA and the Research Institute for Fragrance Materials (RIFM) have established a specific nomenclature system to more accurately characterize the NCSs used in the fragrance industry. In addition to the CAS number, this system incorporates a nomenclature based on the ISO 9235 Standard (2nd Edition, 2013-12-01). It consists of:
+
+A letter representing the part of the plant used in the preparation of the NCS; and
+A number indicating extraction method or other processing applied.
+Letters representing the part of the plant used are defined as
+A. Root (e.g. Angelica root oil)
+
+B. Moss (e.g. Oakmoss extract)
+
+C. Bark (e.g. Cinnamon bark oil)
+
+D. Wood (e.g. Sandalwood oil)
+
+E. Leaf/​Twig (e.g. Petitgrain oil, Peppermint oil) where leaves, twigs or stems are the main target of the harvest but may include other aerial parts.
+
+F. Flower (e.g. Rose petals oil) where the flower is the main target of the harvest.
+
+G. Fruit (e.g. Orange peel oil)
+
+H. Seed or grain (e.g. Coriander seed oil)
+
+I. Algae (e.g. Seaweed absolute)
+
+J. Animal by-products (e.g. Beeswax absolute)
+
+K. Exudate (e.g. Olibanum oil)
+
+L. Twig (e.g. Clove stem oil)
+
+M. Multiple (e.g. Fusel oil; could be obtained from grain, grape, rice, etc.)
+
+Numbers representing extraction method or other processing applied
+The ISO Standard 9235:2013 on aromatic natural raw materials was followed and amended as necessary:
+
+2.1 = Absolute
+
+2.1.1 = Extract of absolute
+
+2.1.2 = Absolute (x‑less)
+
+2.2 = Alcoholate
+
+2.3 = Aromatic water
+
+2.4 = Balsam
+
+2.5 = Essential oil by cold expression
+
+2.6 = Folded essential oil
+
+2.7 = Concrete
+
+2.7.1 = By-product of concrete (which can be further processed)
+
+2.8 = Distillate generic
+
+2.9 = Dry-distilled oil (e.g. Cade oil)
+
+2.9.1 = Dry-distilled pyrogenated oil
+
+2.9.2 = Dry-distilled pyrogenated oil, purified by steam distillation
+
+2.10 = Essential essence oil (from fruit juice)
+
+2.11 = Essential oil generic
+
+2.12 = Essential oil by steam distillation (e.g. Lavender oils)
+
+2.12.1 = Essential oil obtained by steam distillation first grade (e.g. Ylang oils)
+
+2.12.2 = Essential oil obtained by steam distillation second grade (e.g. Ylang oils)
+
+2.12.3 = Essential oil obtained by steam distillation third grade (e.g. Ylang oils)
+
+2.12 X = Essential oil obtained by steam distillation Extra grade (e.g. Ylang oils)
+
+2.12 XS = Essential oil obtained by steam distillation Extra Super grade (e.g. Ylang oils)
+
+2.13 = Extract generic
+
+2.14 = Exudate (not gums and balsams)
+
+2.15 = Gum
+
+2.16 = Gum oleoresin
+
+2.16.1 = Gum oleoresin rectified (e.g. turpentine stump oil)
+
+2.17 = Gum resin
+
+2.18 = Natural oleoresin exudate
+
+2.19 = Natural raw material (includes fermentation)
+
+2.20 = Non-concentrated extract (e.g. Asafoetida in peanut oil, benzoin in ethanol)
+
+2.21 = Oleoresin (derived)
+
+2.22 = Pomade
+
+2.23 = Post treated (e.g. decolorized essential oil, washed essential oil, iron eliminated essential oil)
+
+2.24 = Rectified essential oil
+
+2.25 = Resin
+
+2.26 = Resinoid
+
+2.27 = Supercritical extract
+
+2.28 = ​“Terpene-less and sesquiterpene-less” essential oil
+
+2.29 = ​“Terpene-less” essential oil
+
+2.30 = Terpenes
+
+2.31 = Tincture and infusions
+
+2.32 = Volatile concentrate (e.g. orange essence 5 fold)
+
+2.33 = ​“x‑less” essential oil (e.g. partly dementholised)
+
+2.50 = Fixed oil by cold expression
+
+2.51 = Essential oils obtained with significant changes in their composition
+
+2.52 = Extract obtained by ultrasonic extraction
+
+2.53 = Extract obtained by microwave extraction
+
+2.54 = Solvent extraction of distillation water
+
+2.55 = Chemically-modified essential oil
+
+2.56 = Terpeneless extraction from fruit juice (e.g. orange essence oil terpeneless)
+
+2.57 = Native aromatic water (e.g. Strawberry native aromatic water, cornmint native aromatic water)

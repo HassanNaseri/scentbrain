@@ -1,0 +1,14 @@
+
+# Migrations
+python manage.py makemigrations inventory
+python manage.py sqlmigrate inventory 0005
+python manage.py migrate
+
+
+#Create a new app
+mkdir ./apps/materials
+python manage.py startapp materials ./apps/materials/
+
+#Custom commands
+python manage.py load_ifra_list
+
